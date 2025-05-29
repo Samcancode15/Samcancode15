@@ -8,7 +8,7 @@
 
 # 💫 About Me:
 
-Hello World, I'm Sam, a 15-year-old and Indian fullstack developer.
+Hello World, I'm Sam, a 15-year-old Indian full-stack developer.
 
 I build responsive websites, apps, and Discord bots using React, Next.js, TypeScript, Tailwind, Electron, React Native, and Python, with experience in APIs and SQL databases.
 
