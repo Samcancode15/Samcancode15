@@ -1,3 +1,9 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="banner/github_banner_dark.png" />
+  <source media="(prefers-color-scheme: light)" srcset="banner/github_banner.png" />
+  <img src="banner/github_banner.png" alt="gitHub-banner" width="100%" />
+</picture>
+
 # 💫 About Me:
 
 Hello World, I'm Sam, a 15-year-old and Indian fullstack developer.
