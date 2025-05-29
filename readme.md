@@ -1,8 +1,10 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="banner/github_banner_dark.png" />
-  <source media="(prefers-color-scheme: light)" srcset="banner/github_banner.png" />
-  <img src="banner/github_banner.png" alt="gitHub-banner" width="100%" />
-</picture>
+<a href="https://www.youtube.com/@samcancode15" target="_blank">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="banner/github_banner_dark.png" />
+    <source media="(prefers-color-scheme: light)" srcset="banner/github_banner.png" />
+    <img src="banner/github_banner.png" alt="gitHub-banner" width="100%" />
+  </picture>
+</a>
 
 # 💫 About Me:
 
